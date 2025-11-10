@@ -1,4 +1,4 @@
-# NLW04 ROCKETSEAT
+# SURVEY API
 
 ## About
 
@@ -6,7 +6,7 @@ This is a solution created with node and typescript in event NLW of Rocketseat, 
 
 ## Mvp Aplication
 
--   [Functional Requirement]
+- [Functional Requirement]
 
 -   [List all surveys]
 -   [Create survey]
@@ -14,7 +14,7 @@ This is a solution created with node and typescript in event NLW of Rocketseat, 
 -   [Send Mail with survey created and user]
 -   [Calculate NPS]
 
-*   [Non-Functional Requirement]
+* [Non-Functional Requirement]
 
 *   [Sqlite]
 *   [NodeJs and typescript]
@@ -33,7 +33,7 @@ This is a solution created with node and typescript in event NLW of Rocketseat, 
     or
     -[yarn]
     -[yarn dev]
-## Routes
+## EndPoints
     -[http://localhost:3333/users] - POST
         -[{
             "name": "Example",
